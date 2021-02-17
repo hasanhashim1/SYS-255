@@ -1,0 +1,10 @@
+Lab3 using CentOS  (nmtui)
+
+after opening CentOS and logged in- I typed nmtui
+After that you need to select the ens192
+Press edit and set your IPv4 configurations manually
+Enter IP address as 10.0.5.3/24
+ DNS of 10.0.5.5 
+gateway as 10.0.5.2 
+Put in the search domains hasan.local
+Finally, change your hostname to dhcp01-hasan
